@@ -1,0 +1,20 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "node study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaoxinwu/node_basic.git"
+  },
+  "keywords": [],
+  "author": "xinwu.gao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaoxinwu/node_basic/issues"
+  },
+  "homepage": "https://github.com/Gaoxinwu/node_basic#readme"
+}
